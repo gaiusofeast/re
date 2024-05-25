@@ -1,0 +1,13 @@
+.display{
+    margin-top: 30px;
+    margin-bottom: 150px;
+   }
+
+.display-list{
+   display: grid;
+   grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+   margin-top: 30px;
+   gap: 90px;
+   row-gap: 150px;
+   padding: 40px;
+}

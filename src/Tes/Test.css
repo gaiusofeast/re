@@ -1,0 +1,33 @@
+.one{
+    height: 400px;
+    
+    
+}
+.one img{
+    height: 400px;
+  background: cover;
+}
+.one h5 ,p{
+    color: black;
+}
+#cta{
+    background-color:rgb(190, 21, 49);
+    padding :7% 15%;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    text-align: center;
+  }.qwer{
+    background-color:black;
+    color: white;
+    border:2px solid;
+    border-radius: 4px;
+   padding: 1em 1em;
+    margin : 3% 5% 2% 0;
+  }
+  .qwer:hover
+  {
+    border-color:black;
+    background-color: white;
+    color:black;
+    transform: translateY(-0.25em);
+  }
